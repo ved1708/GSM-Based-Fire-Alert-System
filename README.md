@@ -113,4 +113,4 @@ The system runs a continuous loop monitoring the digital output of the Flame Sen
 ---
 
 For specific technical details regarding the microcontroller used in this implementation:
-* **Arduino UNO Details:** Please refer to **Page 3, Section 4 (Components)** of the `Report No 01.pdf` included in the `docs/` folder.
+* **Arduino UNO Details:** Please refer to [**Page 3, Section 4 (Components)**](https://www.flyrobo.in/blog/what-is-arduino-uno) and refer to conceptual_diagram uploaded in files.
